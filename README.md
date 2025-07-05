@@ -38,9 +38,9 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-EE6F00?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mkh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-01D016?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mkh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maikheb)
+[![LeetCode](https://img.shields.io/badge/LeetCode-EE6F00?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/maithilikh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-01D016?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/maithilikh)
 
 ---
 
